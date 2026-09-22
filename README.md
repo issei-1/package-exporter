@@ -1,6 +1,6 @@
 # Hierarchy Package Exporter
 
-UnityのHierarchyで選択したGameObjectを、子オブジェクト・依存アセットと一緒に `.unitypackage` へ書き出す小さなEditorツールです。C#スクリプト1本で動作し、追加ライブラリは不要です。
+UnityのHierarchyで選択したGameObjectを、子オブジェクト・依存アセットと一緒に `.unitypackage` へ書き出すEditorツールです。C#スクリプト1本で動作し、追加ライブラリは不要です。
 
 ## 機能
 
