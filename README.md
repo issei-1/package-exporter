@@ -16,16 +16,9 @@ UnityのHierarchyで選択したGameObjectを、子オブジェクト・依存�
 ### unitypackageから
 
 1. [HierarchyPackageExporter.unitypackage](dist/HierarchyPackageExporter.unitypackage) をダウンロードします（GitHubではファイル画面の **Download raw file**）。
-2. Unityの `Assets > Import Package > Custom Package...` で読み込みます。
-3. `Assets/Editor/HierarchyPackageExporter.cs` をインポートします。
+2. ダウンロードした[HierarchyPackageExporter.unitypackage](dist/HierarchyPackageExporter.unitypackage)をダブルクリックして、インポートします。
 
 更新時は同じスクリプトを上書きしてください。
-
-### ソースから
-
-[HierarchyPackageExporter.cs](Assets/Editor/HierarchyPackageExporter.cs) と付属の `.meta` をプロジェクトの `Assets/Editor/` にコピーします。フォルダがなければ作成してください。
-
-このリポジトリはEditorツールの配布用です。完全なUnityプロジェクトやUPMパッケージではありません。
 
 ## 使い方
 
